@@ -1,4 +1,7 @@
 # chem-lm-api
+
+[![CI](https://github.com/olotuk/chem-lm-api/actions/workflows/ci.yml/badge.svg)](https://github.com/olotuk/chem-lm-api/actions/workflows/ci.yml)
+
 REST API that predicts the aqueous solubility 
 of a molecule from its SMILES string, using RDKit descriptors and a scikit-learn model
 ## Overview
